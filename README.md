@@ -16,6 +16,7 @@ The API is designed to provide a wide range of functionalities for managing tend
 It offers features for browsing for tenders, including the ability to place a bid for any tender against each other, to the vendors. It also supports CRUD operations for managing the data.
 The application also includes user and admin validation and authentication.
 
+
 > ## Users in the System
 1. Administrator
 2. Vendor
@@ -40,6 +41,10 @@ The application also includes user and admin validation and authentication.
 5. View his own Bid History with bid status.
 6. Search for a tender by tender id or date range.
 
+<hr>
+> ## Hoshiyar Singh Video -  https://youtu.be/lHDfTu4qLtM
+<hr>
+<br>
 
 > ## Tech Stack
 
